@@ -1,0 +1,8 @@
+import React from 'react'
+import AdminDashboard from '../../modules/AdminDashboard'
+
+export default function AdminDashboardPage() {
+    return (
+        <AdminDashboard />
+    )
+}
